@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ajibola Wright
+- 👋 Hi, I’m Ajibola Wright, i am a certified Analyst
 - 👀 I’m interested in Data Management, Software Development and the Cyber Security Industry
 - ⚡ I'm proficient in Excel, PowerBi, SQL and Python.
 - 🌱 I’m currently learning HTML
