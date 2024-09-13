@@ -3,7 +3,7 @@
 - ⚡ I'm proficient in Excel, PowerBi, SQL and Python.
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on data analysis projects, html and pyhton project while i am trying to improve on this skills and other skills.
-- 📫 How to reach me. My email @ajibolawealthson@gmail.com 
+- 📫 How to reach me. My email @emmanuel.a.wright@gmail.com
 - 😄 Pronouns: HE/Him
 
 
